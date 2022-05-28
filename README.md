@@ -8,14 +8,14 @@
 
 
 **************************************************************************************************************************
-Linguagens 
+🚀 Linguagens 
 
 ✅ html
 
 ✅ CSS
 
 **************************************************************************************************************************
-Projeto
+🌱 Projeto
 
 
 Esse projeto foi feito durante as aulas da irmesão dev da alura, é um site de certificado com tudo o que fizemos durante
